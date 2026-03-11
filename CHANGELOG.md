@@ -1,5 +1,27 @@
 
 
+## [1.1.2](https://github.com/pysunday/sdenv/compare/v1.1.1...v1.1.2) (2025-12-16)
+
+
+### Bug Fixes
+
+* check 命令增加代理配置、主体代码modules-alias导入改成相对导入 ([8e92dbe](https://github.com/pysunday/sdenv/commit/8e92dbe85bae6e3c992d0fa65bdf2a8069ad9432))
+
+## [1.1.1](https://github.com/pysunday/sdenv/compare/v1.1.0...v1.1.1) (2025-12-13)
+
+
+### Bug Fixes
+
+* windows报错问题修复 ([1bb4b2b](https://github.com/pysunday/sdenv/commit/1bb4b2bda7b691d317141c9ce15f3efd762eb03b))
+
+## [1.1.0](https://github.com/pysunday/sdenv/compare/v1.0.2...v1.1.0) (2025-12-12)
+
+
+### Features
+
+* 增加document.all === undefined测试用例 ([f0a5242](https://github.com/pysunday/sdenv/commit/f0a5242da97a0a7b8854fed65c54177ef9566710))
+* 新版本适配及代码优化 ([8dc979e](https://github.com/pysunday/sdenv/commit/8dc979e0e2d2ed0b46428fa9844b6e4689146760))
+
 ## [1.0.2](https://github.com/pysunday/sdenv/compare/v1.0.0...v1.0.2) (2025-10-30)
 
 
